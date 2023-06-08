@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(210, 255, 249);
+    text-align: justify;
+}
+.cabeça{
+    background-color: rgb(143, 255, 240);
+    align-items: center;
+    padding: 25px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.cabeça h1{
+    color: rgb(143, 255, 240);;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lat h2, p{
+    margin:25px;
+}
+.lat{
+    float: left;
+    width: 250;
+    margin: 50;
+    padding: 1em;
+    
+}
+li a.act{
+    background-color: rgb(210, 255, 249);
+    color: rgb(0, 0, 0);
+}
+.cont{
+    margin-left: 300px;
+    border-left: 3px solid rgb(129, 0, 108);
+    padding: 1em;
+}
+li a{
+    display:block;
+    color:rgb(0, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+
+.footer{
+    background-color:rgb(170, 255, 241);
+    padding: 30px 10px;
+    text-align: center;
+}
